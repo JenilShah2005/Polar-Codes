@@ -38,3 +38,20 @@ In SCL for each sigma we get reliability sequence and that's commented so to use
 
 
 The 5G standard reliability sequence used is in .mat file provided.
+
+Contribution:
+  Coding (MATLAB):
+    ●Jenil Shah
+    ●Shreyas Dutta
+    ●Rudra Desai
+    ●Devarsh Vasani
+  Encoding:
+    ●Farhan Ansari
+    ●Jayaditya Shah
+  Decoding (SC):
+    ●Dhyey Raval
+    ●Kanu Bhadaraka
+  Decoding (SCL):
+    ●Farzan Bhalara
+    ●Ishan Thakkar
+    ●Vivek Dodiya
